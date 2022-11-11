@@ -11,6 +11,5 @@ int main()
 	else{
 		printf("OUT");
 	}
-	
 	return 0;
 }
