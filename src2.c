@@ -2,6 +2,14 @@
 
 int main()
 {
-	// logic has to written
+	int i;
+	scanf("%d",&i);
+	if (i)
+	{
+		printf("IN");	 // logic
+	}	
+	else{
+		printf("OUT");
+	}
 	return 0;
 }
